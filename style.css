@@ -78,7 +78,7 @@
 .services h2{
     text-align: center;
     margin: 30px;
-    color: greenyellow;
+    color: rgb(0, 143, 246);
 }
 .card{
     transition:all 0.3s;
@@ -467,7 +467,7 @@
 .social-icons li
 {
   display:inline-block;
-  margin-bottom:4px
+  margin-bottom:px
 }
 .social-icons li.title
 {
@@ -479,14 +479,13 @@
 }
 .social-icons a{
   background-color:#eceeef;
-  color:#818a91;
+  color:#babbbc;
   font-size:16px;
   display:inline-block;
   line-height:44px;
   width:44px;
   height:44px;
   text-align:center;
-  margin-right:8px;
   border-radius:100%;
   -webkit-transition:all .2s linear;
   -o-transition:all .2s linear;
