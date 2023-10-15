@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Send+Flowers&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.landing_page {
+    height:786px;
+    width:100%;
+    background-image: url(https://images.unsplash.com/photo-1548013146-72479768bada?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW5kaWElMjB0cmF2ZWx8ZW58MHx8MHx8fDA%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+/* nav bar */
+.navbar-brand span {
+    color: greenyellow;
+    font-size: 3rem;
+}
+.navbar-brand{
+    color:orange ;
+}
+.header-content {
+    text-align: center;
+}
+.li:hover{
+    color: red;
+}
+.travel_quotes p {
+    font-size: 4em;
+    font-weight: 800;
+    color: black;
+    margin:20px;
+    padding:60px;
+    font-family: 'Playfair Display', serif;
+}
+.travel_quotes p span{
+    color: orange;
+    font-family: 'Playfair Display', serif;
+}
+#packages{
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.honeymoon h1{
+    text-align: center;
+    margin: 30px;
+    color: black;
+}
+.honeymoon h2{
+    text-align: center;
+    margin: 30px;
+    color: orange;
+}
+/* Styles for the card body with shadow */
+.with-shadow {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:0 2px 4px rgb(21, 21, 21); /* Add a box shadow */
+  }
+  
+  /* Additional styling for the content inside the card */
+  .card-body h5,
+  .card-body h6,
+  .card-body p,
+  .card-body a,
+  .card-body button {
+    margin: 0;
+  }
+  .services h1{
+    text-align: center;
+    margin: 30px;
+    color: black;
+}
+.services h2{
+    text-align: center;
+    margin: 30px;
+    color: greenyellow;
+}
+.card{
+    transition:all 0.3s;
+}
+.card:hover{
+    transform: scale(1.15);
+}
