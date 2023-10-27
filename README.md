@@ -1,7 +1,7 @@
 # Voyage Vista - Your Ultimate Travel Companion ✈️🌍
 Website link:
 
-![Voyage Vista](https://voyage-vista-sp45.netlify.app/)
+[Voyage Vista](https://voyage-vista-sp45.netlify.app/)
 
 Explore stunning destinations, find your dream vacation, and plan your next adventure with ease. Voyage Vista is your one-stop travel website for all your travel needs.
 ## Design
