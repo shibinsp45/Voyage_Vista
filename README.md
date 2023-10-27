@@ -1,4 +1,4 @@
-# Voyage Vista - Your Ultimate Travel Companion
+# Voyage Vista - Your Ultimate Travel Companion ✈️🌍
 Website link:
 ![Voyage Vista](https://voyage-vista-sp45.netlify.app/)
 
