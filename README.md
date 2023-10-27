@@ -5,9 +5,8 @@ Website link:
 
 Explore stunning destinations, find your dream vacation, and plan your next adventure with ease. Voyage Vista is your one-stop travel website for all your travel needs.
 ## Design
-Check out the design of  Voyage Vista on Dribbble:
+Check out the design of  [Voyage Vista:](https://dribbble.com/shots/22922985-Voyage-Vista-Travel-Website) on Dribbble:
 
-[Design:](https://dribbble.com/shots/22922985-Voyage-Vista-Travel-Website)
 
 
 ## Features
