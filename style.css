@@ -8,7 +8,7 @@
 .landing_page {
     height:786px;
     width:100%;
-    background-image: url(https://i0.wp.com/picjumbo.com/wp-content/uploads/man-camping-in-nature-and-watching-stars-free-photo.jpg);
+    background-image: url(./images/bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -150,7 +150,23 @@
 .slider:hover li {
   animation-play-state: paused;
 }
-
+::-webkit-scrollbar{
+  width:12px;
+  border-radius:10px;
+}
+::-webkit-scrollbar-track{
+  background-color: rgb(0, 0, 0);
+  border-radius:px;
+}
+::-webkit-scrollbar-thumb{
+  border-radius:20px;
+  width:20px;
+  background-color: rgb(15, 58, 111);
+}
+::-webkit-scrollbar-thumb:horizontal {
+  display: none;
+  
+}
 @keyframes cycle {
   0% {
     top: 0px;
